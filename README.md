@@ -24,5 +24,6 @@ Execute the program
 
 </html>
 
-# OUPUT
+# OUtput:
+![output]()
 
