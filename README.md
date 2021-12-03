@@ -25,5 +25,6 @@ Execute the program
 </html>
 
 # OUtput:
-![output]()
-
+![output](https://github.com/Shaik-sameer-AIML/Experiment_Basic_HTML_Tag/blob/main/simple.JPG?raw=true)
+## Result:
+The program is executed.
